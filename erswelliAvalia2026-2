@@ -1,0 +1,46 @@
+[33mcommit fe6bc350bc91986f17d41c412316f97ce7318239[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Wellington Bertoldo <wellingtonmibertoldo@gmail.com>
+Date:   Tue Nov 17 21:08:41 2026 -0300
+
+    Atualiza projeto
+
+ P26-2C-D74F-99D3-3096-8A00/wrangler.jsonc | 4 [32m++[m[31m--[m
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit a27dd5a1bdaa1365e12cf5d73caa7392cf2bcf49[m
+Author: Wellington Bertoldo <wellingtonmibertoldo@gmail.com>
+Date:   Tue Nov 17 21:06:32 2026 -0300
+
+    Redeploy
+
+[33mcommit ff1fca7baac13bc444ea9cfe5bffec23b7bd4453[m
+Author: Wellington Bertoldo <wellingtonmibertoldo@gmail.com>
+Date:   Tue Nov 17 20:30:08 2026 -0300
+
+    ATZ
+
+ P26-2C-D74F-99D3-3096-8A00/AGENTS.md               |  34 [32m+++[m
+ P26-2C-D74F-99D3-3096-8A00/LICENSE                 |  21 [32m++[m
+ P26-2C-D74F-99D3-3096-8A00/README.md               |  50 [32m++++[m
+ .../functions/_lib/session.js                      |  78 [32m++++++[m
+ .../functions/_lib/validate.js                     |  26 [32m++[m
+ .../functions/api/auth/discord.js                  |  20 [32m++[m
+ .../functions/api/auth/discord/callback.js         |  63 [32m+++++[m
+ .../functions/api/auth/logout.js                   |  10 [32m+[m
+ .../functions/api/claims/[id]/[action].js          |  51 [32m++++[m
+ .../functions/api/claims/index.js                  |  28 [32m+++[m
+ .../functions/api/items/[id].js                    |  14 [32m++[m
+ .../functions/api/items/[id]/claims.js             |  32 [32m+++[m
+ .../functions/api/items/index.js                   |  66 [32m+++++[m
+ P26-2C-D74F-99D3-3096-8A00/functions/api/me.js     |   7 [32m+[m
+ P26-2C-D74F-99D3-3096-8A00/functions/api/status.js |  83 [32m+++++++[m
+ .../migrations/0001_init.sql                       |  18 [32m++[m
+ .../migrations/0002_itens_e_reivindicacoes.sql     |  34 [32m+++[m
+ P26-2C-D74F-99D3-3096-8A00/public/app.js           | 257 [32m++++++++++++++++++++[m
+ P26-2C-D74F-99D3-3096-8A00/public/index.html       |  62 [32m+++++[m
+ P26-2C-D74F-99D3-3096-8A00/public/styles.css       | 269 [32m+++++++++++++++++++++[m
+ .../skills/serverless-d1-discord/SKILL.md          |  11 [32m+[m
+ .../skills/teste-validacao/SKILL.md                |  11 [32m+[m
+ .../skills/vanilla-dom-ui/SKILL.md                 |  11 [32m+[m
+ P26-2C-D74F-99D3-3096-8A00/wrangler.jsonc          |  13 [32m+[m
+ 24 files changed, 1269 insertions(+)
