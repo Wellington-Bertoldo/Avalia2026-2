@@ -1,5 +1,7 @@
 # Avalia2026-2 — Repositório Oficial de Entrega e Avaliação Automática de Projetos
 
+Url do projeto pronto:https://achados-app.pages.dev
+
 Bem-vindo ao repositório oficial de entrega dos projetos semestrais de **2026** do **Prof. Frank de Alcantara** ([`https://frankalcantara.com/projetos2026`](https://frankalcantara.com/projetos2026)).
 
 Cada estudante desenvolve seu trabalho dentro de uma **subpasta exclusiva nomeada exatamente com a sua Chave Única**, utiliza essa mesma subpasta no seu próprio **Fork** para alimentar o deploy online na **Cloudflare (Pages + D1)** com autenticação **Discord OAuth2**, e realiza a entrega abrindo um **Pull Request** para este repositório.
