@@ -4,7 +4,7 @@
 - **Estudante:** Wellington Miguel Bertoldo
 - **Turma:** 2C
 - **Chave Única:** `P26-2C-D74F-99D3-3096-8A00`
-- **URL_CLOUDFLARE:** `https://p26-2c-d74f-99d3-3096-8a00.pages.dev` *(Atualize com a URL pública real do seu deploy na Cloudflare antes de abrir o Pull Request)*
+- **URL_CLOUDFLARE:** `https://achados-app.pages.dev` *(Atualize com a URL pública real do seu deploy na Cloudflare antes de abrir o Pull Request)*
 
 ---
 
